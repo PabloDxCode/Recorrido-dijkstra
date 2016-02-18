@@ -1,0 +1,6 @@
+c:\users\pablo-pc\desktop\documents\visual studio 2013\Projects\RecorridoDijkstra\RecorridoDijkstra\bin\Debug\RecorridoDijkstra.exe.config
+C:\Users\Pablo-PC\Desktop\Documents\Visual Studio 2013\Projects\RecorridoDijkstra\RecorridoDijkstra\bin\Debug\RecorridoDijkstra.exe
+C:\Users\Pablo-PC\Desktop\Documents\Visual Studio 2013\Projects\RecorridoDijkstra\RecorridoDijkstra\bin\Debug\RecorridoDijkstra.pdb
+C:\Users\Pablo-PC\Desktop\Documents\Visual Studio 2013\Projects\RecorridoDijkstra\RecorridoDijkstra\obj\Debug\RecorridoDijkstra.csprojResolveAssemblyReference.cache
+C:\Users\Pablo-PC\Desktop\Documents\Visual Studio 2013\Projects\RecorridoDijkstra\RecorridoDijkstra\obj\Debug\RecorridoDijkstra.exe
+C:\Users\Pablo-PC\Desktop\Documents\Visual Studio 2013\Projects\RecorridoDijkstra\RecorridoDijkstra\obj\Debug\RecorridoDijkstra.pdb
